@@ -1,4 +1,8 @@
-# Roman Numeral Converter (MIPS)
+<h1 align="center">Roman Numeral Converter (MIPS)</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MIPS-Assembly-555555?style=for-the-badge" />
+</p>
 
 A simple MIPS assembly program that converts an integer into a Roman numeral.
 
@@ -11,7 +15,8 @@ A simple MIPS assembly program that converts an integer into a Roman numeral.
 ## Requirements
 
 - MARS MIPS Simulator
-or
+
+  **or**
 - QtSPIM
 
 ## How to Run
@@ -37,4 +42,4 @@ XLII
 
 ## License
 
-Licensed under the Apache 2.0 License.
+Licensed under the [Apache 2.0 License](https://github.com/mathispimpare/mips-roman-numeral-converter/blob/main/LICENSE).
